@@ -11,4 +11,5 @@ In addition, most examples were quickly written just after Apple announced Swift
 
 | Name | Description |
 | --- | --- |
-| [DarkModeSwitcher](https://github.com/donarb/DarkModeSwitcher) | Fork of [DarkModeSwitcher](https://github.com/donarb/DarkModeSwitcher) updated to Xcode 11.3 |
+| [DarkModeSwitcher](https://github.com/mackuba/DarkModeSwitcher) | Simple app for overriding light mode per app on macOS |
+| [DarkModeSwitcher](https://github.com/donarb/DarkModeSwitcher) | Port of [DarkModeSwitcher](https://github.com/mackuba/DarkModeSwitcher) updated to MacOS 10.15 |
