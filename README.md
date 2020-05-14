@@ -15,3 +15,4 @@ In addition, most examples were quickly written just after Apple announced Swift
 | [DarkModeSwitcher](https://github.com/donarb/DarkModeSwitcher) | Port of [DarkModeSwitcher](https://github.com/mackuba/DarkModeSwitcher) updated to MacOS 10.15 |
 | [SwiftUIStaggeredNote](https://github.com/alfianlosari/SwiftUIStaggeredNote) | Example app of using StaggeredList in SwiftUI |
 | [XCodeCleaner-SwiftUI](https://github.com/waylybaye/XcodeCleaner-SwiftUI) | App that cleans Xcode library files, removing unwanted and deprecated files |
+| [SwiftSnakeEngine](https://github.com/neoneye/SwiftSnakeEngine) | YOU vs AI, in the classic snake game! |
