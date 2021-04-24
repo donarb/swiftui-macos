@@ -20,5 +20,6 @@ In addition, most examples were quickly written just after Apple announced Swift
 | [SwiftUIMac](https://github.com/trozware/swiftui-mac) | Project for [article](https://troz.net/post/2019/swiftui-for-mac-1/) at describing how to create a SwiftUI app for Mac |
 | [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) | Application that uses the MovieDB API, [article](https://medium.com/better-programming/collection-making-a-real-world-application-with-swiftui-4f9bc8c7fb71) that describes the design |
 | [RedditOS](https://github.com/Dimillian/RedditOS) | Reddit client for Mac OS Big Sur |
+| [Animal Crossing Browser](https://github.com/Dimillian/ACHNBrowserUI) | Animal Crossing companion app for Mac |
 | [Reddit Client](https://github.com/carson-katri/reddit-swiftui) | Another Reddit client for MacOS |
 
