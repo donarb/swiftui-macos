@@ -17,3 +17,4 @@ In addition, most examples were quickly written just after Apple announced Swift
 | [XCodeCleaner-SwiftUI](https://github.com/waylybaye/XcodeCleaner-SwiftUI) | App that cleans Xcode library files, removing unwanted and deprecated files |
 | [SwiftSnakeEngine](https://github.com/neoneye/SwiftSnakeEngine) | YOU vs AI, in the classic snake game! |
 | [SwiftUIMac](https://github.com/trozware/swiftui-mac) | Project for [article](https://troz.net/post/2019/swiftui-for-mac-1/) at describing how to create a SwiftUI app for Mac |
+| [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) | Application that uses the MovieDB API, [article](https://medium.com/better-programming/collection-making-a-real-world-application-with-swiftui-4f9bc8c7fb71) that describes the design |
