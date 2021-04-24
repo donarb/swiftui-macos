@@ -16,4 +16,4 @@ In addition, most examples were quickly written just after Apple announced Swift
 | [SwiftUIStaggeredNote](https://github.com/alfianlosari/SwiftUIStaggeredNote) | Example app of using StaggeredList in SwiftUI |
 | [XCodeCleaner-SwiftUI](https://github.com/waylybaye/XcodeCleaner-SwiftUI) | App that cleans Xcode library files, removing unwanted and deprecated files |
 | [SwiftSnakeEngine](https://github.com/neoneye/SwiftSnakeEngine) | YOU vs AI, in the classic snake game! |
-| [SwiftUIMac](https://github.com/trozware/swiftui-mac) | Project for [article at](https://github.com/trozware/swiftui-mac) describing how to create a SwiftUI app for Mac |
+| [SwiftUIMac](https://github.com/trozware/swiftui-mac) | Project for [article](https://troz.net/post/2019/swiftui-for-mac-1/) at describing how to create a SwiftUI app for Mac |
