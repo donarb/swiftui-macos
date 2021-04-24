@@ -19,5 +19,6 @@ In addition, most examples were quickly written just after Apple announced Swift
 | [SwiftSnakeEngine](https://github.com/neoneye/SwiftSnakeEngine) | YOU vs AI, in the classic snake game! |
 | [SwiftUIMac](https://github.com/trozware/swiftui-mac) | Project for [article](https://troz.net/post/2019/swiftui-for-mac-1/) at describing how to create a SwiftUI app for Mac |
 | [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) | Application that uses the MovieDB API, [article](https://medium.com/better-programming/collection-making-a-real-world-application-with-swiftui-4f9bc8c7fb71) that describes the design |
-| [Reddit Client](https://github.com/carson-katri/reddit-swiftui) | A Reddit client |
+| [RedditOS](https://github.com/Dimillian/RedditOS) | Reddit client for Mac OS Big Sur |
+| [Reddit Client](https://github.com/carson-katri/reddit-swiftui) | Another Reddit client for MacOS |
 
