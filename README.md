@@ -25,3 +25,4 @@ In addition, most examples were quickly written just after Apple announced Swift
 | [SwiftUI-mac-11](https://github.com/trozware/swiftui-mac-11) | Big Sur | SwiftUI project for Mac Big Sur |
 | [rDio](https://github.com/jordansinger/rdio-macos-swiftui-sample) | Big Sur | rDio Mac project |
 | [eul](https://github.com/gao-sun/eul) | | macOS status monitoring app |
+| [Health](https://github.com/jordansinger/health-macos-swiftui-example) | Big Sur | Health app |
