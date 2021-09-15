@@ -23,3 +23,4 @@ In addition, most examples were quickly written just after Apple announced Swift
 | [Animal Crossing Browser](https://github.com/Dimillian/ACHNBrowserUI) | | Animal Crossing companion app for Mac |
 | [Reddit Client](https://github.com/carson-katri/reddit-swiftui) | Catalina | Another Reddit client for MacOS |
 | [SwiftUI-mac-11](https://github.com/trozware/swiftui-mac-11) | Big Sur | SwiftUI project for Mac Big Sur |
+| [rDio](https://github.com/jordansinger/rdio-macos-swiftui-sample) | Big Sur | rDio Mac project |
