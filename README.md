@@ -29,7 +29,6 @@ In addition, most examples were quickly written just after Apple announced Swift
 | [Native Youtube](https://github.com/Aayush9029/NativeYoutube) | Monterey | Native Youtube app |
 | [Native Twitch](https://github.com/Aayush9029/NativeTwitch) | Monterey | Native Twitch app |
 | [Native Twitch Chat](https://github.com/Aayush9029/NativeChat) | Monterey | Native Twitch Chat app |
-| [Native Twitch Chat](https://github.com/Aayush9029/NativeChat) | Monterey | Native Twitch Chat app |
 | [Better Weather](https://github.com/Aayush9029/BetterWeather) | Monterey | Un-offcial macOS weather app |
 
 
