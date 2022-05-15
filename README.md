@@ -24,12 +24,17 @@ In addition, most examples were quickly written just after Apple announced Swift
 | [Reddit Client](https://github.com/carson-katri/reddit-swiftui) | Catalina | Another Reddit client for MacOS |
 | [SwiftUI-mac-11](https://github.com/trozware/swiftui-mac-11) | Big Sur | SwiftUI project for Mac Big Sur |
 | [rDio](https://github.com/jordansinger/rdio-macos-swiftui-sample) | Big Sur | rDio Mac project |
-| [eul](https://github.com/gao-sun/eul) | | macOS status monitoring app |
+| [messages](https://github.com/jordansinger/messages-multiplatform-swiftui-sample) | Big Sur | Multiplatform Messages app for macOS, iOS, iPadOS in SwiftUI |
+| [todo](https://github.com/jordansinger/todo-macos-swiftui-sample) | Big Sur | Todo macOS app |
+| [mail](https://github.com/jordansinger/mail-swiftui-sample) | Big Sur | Example Mail app |
+| [eul](https://github.com/gao-sun/eul) | Catalina | macOS status monitoring app |
 | [Health](https://github.com/jordansinger/health-macos-swiftui-example) | Big Sur | Health app |
 | [Native Youtube](https://github.com/Aayush9029/NativeYoutube) | Monterey | Native Youtube app |
 | [Native Twitch](https://github.com/Aayush9029/NativeTwitch) | Monterey | Native Twitch app |
 | [Native Twitch Chat](https://github.com/Aayush9029/NativeChat) | Monterey | Native Twitch Chat app |
 | [Better Weather](https://github.com/Aayush9029/BetterWeather) | Monterey | Un-offcial macOS weather app |
+| [MovieDB](https://github.com/alfianlosari/SwiftUI-MovieDB) | Catalina | SwiftUI MovieDB prototype app built with Xcode 11 Beta |
+| [SwiftUICharts](https://github.com/willdale/SwiftUICharts) | Big Sur | A charts / plotting library for SwiftUI |
 
 
 
